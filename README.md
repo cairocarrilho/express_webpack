@@ -1,20 +1,20 @@
-##TEMPLATE FULLSTACK##
+## TEMPLATE FULLSTACK ##
 
-####Descrição:####
+#### Descrição: ####
 
 Este projeto é um template desenvolvido durante um curso, projetado para servir como base para futuros projetos web. 
 Ele incorpora várias tecnologias e práticas comuns no desenvolvimento de aplicações web, incluindo gerenciamento de rotas, 
 segurança HTTP, controle de sessões, proteção CSRF, utilização de controllers e middlewares, além de integração com Webpack para gerenciamento de assets. 
 Utiliza EJS como engine de templates e inclui estrutura de models e views para organização e separação de responsabilidades.
 
-##linguagem/ Framework/ Banco de Dados##
-        - Javacrispt 
-        - NodeJS
-        - Express
-        - MongoDB
+##Linguagem/ Framework/ Banco de Dados ##
+- Javacrispt 
+- NodeJS
+- Express
+- MongoDB
         
 
-####Funcionalidades e Tecnologias Utilizadas
+#### Funcionalidades e Tecnologias Utilizadas
 
 - Rotas dinâmicas e gerenciamento de URLs
 - Controle de sessões para gerenciar autenticação de usuários
