@@ -7,7 +7,7 @@ Ele incorpora várias tecnologias e práticas comuns no desenvolvimento de aplic
 segurança HTTP, controle de sessões, proteção CSRF, utilização de controllers e middlewares, além de integração com Webpack para gerenciamento de assets. 
 Utiliza EJS como engine de templates e inclui estrutura de models e views para organização e separação de responsabilidades.
 
-##Linguagem/ Framework/ Banco de Dados ##
+## Linguagem/ Framework/ Banco de Dados ##
 - Javacrispt 
 - NodeJS
 - Express
